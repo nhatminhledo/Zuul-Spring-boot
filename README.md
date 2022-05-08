@@ -1,2 +1,2 @@
-# API-Gateway-and-Spring-Boot-Microservices
-Kong API Gateway
+# Zuul-and-Spring-Boot-Microservices
+Zuul-and-Spring-Boot-Microservices
